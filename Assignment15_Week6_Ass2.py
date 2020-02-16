@@ -1,3 +1,8 @@
+# Objective of this program is to use Python over a network to connect to the Google Maps API to 
+# retrieve the longitudinal and latitudinal location provided by a users input.
+
+
+
 # Import relevant libraries. JSON and urllib to prevent bad data extraction accessing web data
 import json
 import urllib.request, urllib.parse, urllib.error
